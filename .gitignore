@@ -1,0 +1,5 @@
+# Rails directories
+log/[^.]*
+doc/[^.]*
+tmp/**/*
+db/*.sqlite3*
